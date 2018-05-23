@@ -1,15 +1,6 @@
 <h1 align="center">Eslint Airbnb Script Install</h1>
 
 <p align="center">
-  <a href="">
-    <img src="">
-  </a>
-  <a href="">
-    <img src="">
-  </a>
-</p>
-
-<p align="center">
   This package provides Airbnb's .eslintrc as an extensible shared config.
 </p>
 
